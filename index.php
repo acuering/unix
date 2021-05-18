@@ -40,7 +40,7 @@
 		                <div class="form-group">
 		                    <label for="chassis">Chassis</label>
 		                    <select class="form-control" id="chassis" name="chassis">
-		                    	<option selected="" disabled="">Select Author</option>
+		                    	<option selected="" disabled="">Select Chassis</option>
 		                    	<?php 
 		                    		require 'data.php';
 		                    		$chassis = loadChassis();
